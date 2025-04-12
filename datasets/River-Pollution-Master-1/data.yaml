@@ -1,0 +1,14 @@
+names:
+- debris
+- plastic
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: river-pollution-master
+  url: https://universe.roboflow.com/lumsworkspace/river-pollution-master/dataset/1
+  version: 1
+  workspace: lumsworkspace
+test: ../test/images
+train: D:/Plastic-In-River-Detection-main/datasets/River-Pollution-Master-1/train/images
+val: D:/Plastic-In-River-Detection-main/datasets/River-Pollution-Master-1/valid/images
+
