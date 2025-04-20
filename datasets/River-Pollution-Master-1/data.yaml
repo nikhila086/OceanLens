@@ -9,6 +9,6 @@ roboflow:
   version: 1
   workspace: lumsworkspace
 test: ../test/images
-train: D:/Plastic-In-River-Detection-main/datasets/River-Pollution-Master-1/train/images
-val: D:/Plastic-In-River-Detection-main/datasets/River-Pollution-Master-1/valid/images
+train: D:/OceanLens/datasets/River-Pollution-Master-1/train/images
+val: D:/OceanLens/datasets/River-Pollution-Master-1/valid/images
 
